@@ -1,5 +1,9 @@
 # Smart Locker
 
+[![Smart Locker Demo](https://img.youtube.com/vi/Mho3pYF5UIk/0.jpg)](https://www.youtube.com/watch?v=Mho3pYF5UIk)
+
+*Click the image above to watch the demo video*
+
 **Version:** 11.05  
 *1st assignment version. General details, hardware implementation, and most software implementation are done. Work on other milestones is in progress.*
 
